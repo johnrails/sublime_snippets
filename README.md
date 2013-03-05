@@ -5,5 +5,6 @@ Clone the repo:
     git clone git@github.com:johnrails/sublime_snippets.git
 
 Copy files to Packages/User/
+
     cd sublime_snippets
     cp *.sublime-snippet ~/Library/Application Support/Sublime Text 2/Packages/User/  -- _mac os x_
