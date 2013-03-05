@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+<form class="navbar-search pull-left">
+  <input type="text" class="search-query" placeholder="Search">
+</form>
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>bssearchf</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>

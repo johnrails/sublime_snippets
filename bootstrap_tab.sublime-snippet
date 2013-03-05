@@ -1,0 +1,20 @@
+<snippet>
+    <content><![CDATA[
+<ul class="nav nav-tabs" id="${1:myTab}">
+  <li class="active"><a href="#${2}">${2:Home}</a></li>
+  <li><a href="#${3}">${3:About}</a></li>
+  <li><a href="#${4}">${4:...}</a></li>
+</ul>
+ 
+<div class="tab-content">
+  <div class="tab-pane active" id="${2}">...</div>
+  <div class="tab-pane" id="${3}">...</div>
+  <div class="tab-pane" id="${4}">...</div>
+</div>
+ 
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>bstab</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>

@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+<form class="navbar-form pull-left">
+  <input type="text" class="span2">
+  <button type="submit" class="btn">Submit</button>
+</form>
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>bsnavf</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>
+
