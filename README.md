@@ -2,6 +2,7 @@ These are a few helpful snippets that i use fairly often. Included are some snip
 
 # Installation
 Clone the repo:
+
     git clone git@github.com:johnrails/sublime_snippets.git
 
 Copy files to Packages/User/
