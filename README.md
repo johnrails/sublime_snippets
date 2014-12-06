@@ -7,5 +7,11 @@ Clone the repo:
 
 Copy files to Packages/User/
 
+#### Sublime Text 2
     cd sublime_snippets
     cp *.sublime-snippet ~/Library/Application Support/Sublime Text 2/Packages/User/  -- _mac os x_
+
+
+####Sublime Text 3
+    cd sublime_snippets
+	cp *.sublime-snippet ~/Library/Application Support/Sublime Text/Packages/User/  -- _mac os x_
