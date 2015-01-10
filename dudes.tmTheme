@@ -16,16 +16,16 @@
 		<string>#75715E</string>
 	</dict>
 	<key>name</key>
-	<string>Monokai</string>
+	<string>Dudes</string>
 	<key>semanticClass</key>
-	<string>theme.dark.monokai</string>
+	<string>theme.dark.dude</string>
 	<key>settings</key>
 	<array>
 		<dict>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#272822</string>
+				<string>#171813</string>
 				<key>caret</key>
 				<string>#F8F8F0</string>
 				<key>foreground</key>
@@ -46,7 +46,9 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#75715E</string>
+				<string>#5977d6</string>
+				<key>background</key>
+				<string>#171717</string>
 			</dict>
 		</dict>
 		<dict>
@@ -57,7 +59,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#E6DB74</string>
+				<string>#ff4d41</string>
 			</dict>
 		</dict>
 		<dict>
@@ -102,6 +104,8 @@
 			<dict>
 				<key>fontStyle</key>
 				<string></string>
+				<key>foreground</key>
+				<string>#f75bff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -112,7 +116,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#F92672</string>
+				<string>#1ed3f6</string>
 			</dict>
 		</dict>
 		<dict>
@@ -151,7 +155,7 @@
 				<key>fontStyle</key>
 				<string>underline</string>
 				<key>foreground</key>
-				<string>#A6E22E</string>
+				<string>#e953bd</string>
 			</dict>
 		</dict>
 		<dict>
@@ -203,7 +207,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#F92672</string>
+				<string>#ff40ff</string>
 			</dict>
 		</dict>
 		<dict>
